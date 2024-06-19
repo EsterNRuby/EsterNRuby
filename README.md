@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil ❤️🌃
 
-<!--
-**EsterNRuby/EsterNRuby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ester do Nascimento 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou começando a me desafiar com a linguagem de JavaScript
+- Uso essas plataforma exclusivamente para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+
+0000109445820xsp@al.educacao.sp.gov.br
+
+@0000109445820xsp
+
+![](https://gifman.net/wp-content/uploads/2019/06/ursinhos-fofos-mordidas.gif)
